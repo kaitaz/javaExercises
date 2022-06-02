@@ -2,6 +2,9 @@ package Chapter_2_Elementary_Programming;
 
 import java.util.Scanner;
 
+/*(Financial application: calculate tips) Write a program that reads the subtotal
+and the gratuity rate, then computes the gratuity and total.*/
+
 public class CalcutateTips {
 
 	public static void main(String[] args) {
