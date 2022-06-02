@@ -41,7 +41,8 @@ public class CurrentTime {
 	    
 
 	    // Display results
-	    System.out.println("Current GTM time is " + currentHour + " and offset time is " + offsetHour);
+	    System.out.println("Current GTM time is " + currentHour + ":" + currentMinute + ":" + currentSecond +
+	    		"\nOffset time is " + offsetHour + ":" + currentMinute + ":" + currentSecond );
 	  
 
 	}
