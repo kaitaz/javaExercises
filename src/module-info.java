@@ -3,6 +3,9 @@ module JavaFX {
 	requires javafx.graphics;
 	requires javafx.base;
 	
+	//opens Chapter_9_Objects_And_Classes to javafx.graphics, javafx.fxml;
+	//opens ch_10_Chapter_10_Object_Oriented_Thinking to javafx.graphics, javafx.fxml;
+	
 	/*opens ch_14_JavaFX_Basics to javafx.graphics, javafx.fxml;
 	opens ch_15_EventDrivenProgramming_and_Animation to javafx.graphics, javafx.fxml;
 	opens ch_16_JavaUI_Controls_and_Multimedia to javafx.graphics, javafx.fxml;
@@ -17,8 +20,8 @@ module JavaFX {
 	opens ch_6_Methods to javafx.graphics, javafx.fxml;
 	opens ch_7_Single_Dim_Arrays to javafx.graphics, javafx.fxml;
 	opens ch_8_Multidim_Array to javafx.graphics, javafx.fxml;
-	opens ch_9_Object_and_Classes to javafx.graphics, javafx.fxml;
-	opens ch_10_Object_Oriented_Thinking to javafx.graphics, javafx.fxml;
+	
+	opens ch_10_Chapter_10_Object_Oriented_Thinking to javafx.graphics, javafx.fxml;
 	opens Ch_11_Inheritance_and_Polimorphism to javafx.graphics, javafx.fxml;
 	opens ch_12_ExceptionHandling_TextIO to javafx.graphics, javafx.fxml;
 	opens ch_13_AbstractClasses_and_Interfeces to javafx.graphics, javafx.fxml;

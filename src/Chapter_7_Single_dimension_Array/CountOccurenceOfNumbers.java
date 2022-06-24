@@ -1,6 +1,6 @@
 package Chapter_7_Single_dimension_Array;
 import java.util.Scanner;
-import java.util.Arrays;
+
 
 /*(Count occurrence of numbers) Write a program that reads the integers between
 1 and 100 and counts the occurrences of each. Assume the input ends with 0.  Note that if a number 
