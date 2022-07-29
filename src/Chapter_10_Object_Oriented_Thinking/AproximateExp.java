@@ -1,7 +1,6 @@
 package Chapter_10_Object_Oriented_Thinking;
 
 import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.math.RoundingMode;
 
 public class AproximateExp {
